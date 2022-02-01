@@ -3,6 +3,10 @@ FiveM file
 
 Tää filu tekee aina filun restartattua uudet suojatriggerit.
 
+clientside exportit:
+   GetSecurityTrigger
+   RegenerateNewPlayersDataTriggerC
+
 serverside exportit:
 
 CheckPlayerTrigger
